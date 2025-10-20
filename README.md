@@ -337,11 +337,3 @@ The total format has been clearly described in the file named instrmean.txt in t
 |1111100000000000|
 
 ![waveforms 1](https://github.com/user-attachments/assets/1969f85e-32f5-4096-952b-537bc87c4d0e)
-
-
-## Team Members
-
-- Ashwin Soni &emsp; [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashwinsoni9205) &emsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-soni-099200262)
-- S.V. Jaya Chand &emsp; [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jay1chand) &emsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-v-jaya-chand-a32806257)
-- Yash Baghel &emsp; [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shadowchaser004) &emsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-baghel-3435b525b)
-- Sanidhya Baheti &emsp; [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SanidhyaBaheti) &emsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanidhya-baheti-122b39252)
